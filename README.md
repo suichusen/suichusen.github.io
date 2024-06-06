@@ -68,9 +68,9 @@
             <span id="time"></span>
         </div>
         <div class="links">
-            <a href="https://hurawatch2.to">HuraWatch2</a>
-            <a href="https://anix.to">Anix</a>
-            <a href="https://mangafire.to">MangaFire</a>
+            <a href="https://hurawatch2.to">Movies</a>
+            <a href="https://anix.to">Anime</a>
+            <a href="https://mangafire.to">Manga</a>
             <a href="https://www.youtube.com">YouTube</a>
             <a href="https://www.reddit.com">Reddit</a>
             <a href="https://huggingface.co/chat/">HuggingFace</a>
